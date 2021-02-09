@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/JWVONA"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:jwvona@gmail.com"
 output:
   postcards::trestles
 ---
